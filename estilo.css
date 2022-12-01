@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    background-color: rgb(238, 237, 237);
+    padding-top: 200px;
+}
+
+.container {
+    display: block;
+    max-width: 960;
+    width: 100%;
+    margin: 16px 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.container form {
+    text-align: center;
+}
+
+form input {
+    padding: 12px 0;
+    font-size: 14px;
+    border: none;
+    border-bottom: 2px solid teal;
+}
+
+form button {
+    padding: 12px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: teal;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+form button:hover {
+    background-color: rgb(127, 204, 204);
+    color: black;
+}
+
+ul li {
+    text-align: center;
+    cursor: pointer;
+}
+
+.riscado {
+    text-decoration: line-through;
+}
+
+
