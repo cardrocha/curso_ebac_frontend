@@ -1,0 +1,14 @@
+button {
+    margin-top: 16px;
+}
+
+body {
+    max-width: 560px;
+    margin: 0 auto;
+    background-color: springgreen;
+}
+
+h2 {
+    margin-top: 16px;
+    text-align: center;
+}
