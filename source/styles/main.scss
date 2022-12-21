@@ -1,0 +1,21 @@
+@use 'variaveis';
+
+body {
+    background-color: variaveis.$corPrincipal;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+
+    h1 {
+        color: variaveis.$corText;
+        text-align: center;
+        background-color: variaveis.$corDeFundo;
+    }
+
+    p {
+        color: variaveis.$corText;
+        text-align: center;
+    }
+}
