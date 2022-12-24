@@ -1,0 +1,15 @@
+body {
+  background-color: #e47e33;
+  color: #fff;
+}
+.container {
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+.container h1 {
+  background-color: #743102;
+  text-align: center;
+  font-size: 3em;
+}
